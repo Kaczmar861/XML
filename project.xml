@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="plik.xslt"?>
+<!DOCTYPE pokedex SYSTEM "DTD.dtd">
+<pokedex>
+	<pokemon id='1'>
+		<name>BULBASAUR</name>
+		<img url="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png"></img>
+		<category>Seed</category>
+		<type>Grass</type>
+		<type>Poison</type>
+		<ability>Overgrow</ability>
+		<stats>
+			<HP>2/10</HP>
+			<ATK>2/10</ATK>
+			<DEF>2/10</DEF>
+			<SPD>2/10</SPD>
+			<SAT>2/10</SAT>
+			<SDF>2/10</SDF>		
+		</stats>
+		<evolutions>
+			<evolution id='1'>
+				<nameevo>Bulbasaur</nameevo>
+			</evolution>
+			<evolution id='2'>
+				<nameevo>Ivysaur</nameevo>
+			</evolution>
+			<evolution id='3'>
+				<nameevo>Venusaur</nameevo>
+			</evolution>
+		</evolutions>
+		<description>Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.</description>
+	</pokemon>
+	<pokemon id='2'>
+		<name>IVYSAUR</name>
+		<img url="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/002.png"></img>
+		<category>Seed</category>
+		<type>Grass</type>
+		<type>Poison</type>
+		<ability>Overgrow</ability>
+		<stats>
+			<HP>3/10</HP>
+			<ATK>3/10</ATK>
+			<DEF>3/10</DEF>
+			<SPD>3/10</SPD>
+			<SAT>4/10</SAT>
+			<SDF>3/10</SDF>
+		</stats>
+		<evolutions>
+			<evolution id='1'>
+				<nameevo>Bulbasaur</nameevo>
+			</evolution>
+			<evolution id='2'>
+				<nameevo>Ivysaur</nameevo>
+			</evolution>
+			<evolution id='3'>
+				<nameevo>Venusaur</nameevo>
+			</evolution>
+		</evolutions>
+		<description>There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.</description>
+	</pokemon>
+	<pokemon id='3'>
+		<name>VENUSAUR</name>
+		<img url="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png"></img>
+		<category>Seed</category>
+		<type>Grass</type>
+		<type>Poison</type>
+		<ability>Overgrow</ability>
+		<stats>
+			<HP>3/10</HP>
+			<ATK>4/10</ATK>
+			<DEF>4/10</DEF>
+			<SPD>4/10</SPD>
+			<SAT>5/10</SAT>
+			<SDF>4/10</SDF>
+		</stats>
+		<evolutions>
+			<evolution id='1'>
+				<nameevo>Bulbasaur</nameevo>
+			</evolution>
+			<evolution id='2'>
+				<nameevo>Ivysaur</nameevo>
+			</evolution>
+			<evolution id='3'>
+				<nameevo>Venusaur</nameevo>
+			</evolution>
+		</evolutions>
+		<description>There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.</description>
+	</pokemon>
+	<pokemon id='4'>
+		<name>CHARMANDER</name>
+		<img url="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png"></img>
+		<category>Lizard</category>
+		<type>Fire</type>
+		<type></type>
+		<ability>Blaze</ability>
+		<stats>
+			<HP>2/10</HP>
+			<ATK>3/10</ATK>
+			<DEF>2/10</DEF>
+			<SPD>4/10</SPD>
+			<SAT>3/10</SAT>
+			<SDF>2/10</SDF>			
+		</stats>
+		<evolutions>
+			<evolution id='1'>
+				<nameevo>Charmander</nameevo>
+			</evolution>
+			<evolution id='2'>
+				<nameevo>Charmeleon</nameevo>
+			</evolution>
+			<evolution id='3'>
+				<nameevo>Charizard</nameevo>
+			</evolution>
+		</evolutions>
+		<description>The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.</description>
+	</pokemon>
+	<pokemon id='5'>
+		<name>CHARMELEON</name>
+		<img url="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/005.png"></img>
+		<category>Flame</category>
+		<type>Fire</type>
+		<type></type>
+		<ability>Blaze</ability>
+		<stats>
+				<HP>3/10</HP>
+				<ATK>3/10</ATK>
+				<DEF>3/10</DEF>
+				<SPD>4/10</SPD>
+				<SAT>4/10</SAT>
+				<SDF>3/10</SDF>
+		</stats>
+		<evolutions>
+			<evolution id='1'>
+				<nameevo>Charmander</nameevo>
+			</evolution>
+			<evolution id='2'>
+				<nameevo>Charmeleon</nameevo>
+			</evolution>
+			<evolution id='3'>
+				<nameevo>Charizard</nameevo>
+			</evolution>
+		</evolutions>
+		<description>Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.</description>
+	</pokemon>
+	<pokemon id='6'>
+		<name>CHARIZARD</name>
+		<img url="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png"></img>
+		<category>Flame</category>
+		<type>Fire</type>
+		<type>Flying</type>
+		<ability>Blaze</ability>
+		<stats>
+				<HP>3/10</HP>
+				<ATK>4/10</ATK>
+				<DEF>3/10</DEF>
+				<SPD>5/10</SPD>
+				<SAT>5/10</SAT>
+				<SDF>4/10</SDF>	
+		</stats>
+		<evolutions>
+			<evolution id='1'>
+				<nameevo>Charmander</nameevo>
+			</evolution>
+			<evolution id='2'>
+				<nameevo>Charmeleon</nameevo>
+			</evolution>
+			<evolution id='3'>
+				<nameevo>Charizard</nameevo>
+			</evolution>
+		</evolutions>
+		<description>Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.</description>
+	</pokemon>
+	<pokemon id='7'>
+		<name>SQUIRTLE</name>
+		<img url="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png"></img>
+		<category>Tiny Turtle</category>
+		<type>Water</type>
+		<type></type>
+		<ability>Torrent</ability>
+		<stats>
+				<HP>2/10</HP>
+				<ATK>3/10</ATK>
+				<DEF>3/10</DEF>
+				<SPD>2/10</SPD>
+				<SAT>2/10</SAT>
+				<SDF>3/10</SDF>			
+		</stats>
+		<evolutions>
+			<evolution id='1'>
+				<nameevo>Squirtle</nameevo>
+			</evolution>
+			<evolution id='2'>
+				<nameevo>Wartortle</nameevo>
+			</evolution>
+			<evolution id='3'>
+				<nameevo>Blastoise</nameevo>
+			</evolution>
+		</evolutions>
+		<description>Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.</description>
+	</pokemon>
+	<pokemon id='8'>
+		<name>WARTORTLE</name>
+		<img url="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/008.png"></img>
+		<category>Turtle</category>
+		<type>Water</type>
+		<type></type>
+		<ability>Torrent</ability>
+		<stats>
+				<HP>3/10</HP>
+				<ATK>3/10</ATK>
+				<DEF>4/10</DEF>
+				<SPD>2/10</SPD>
+				<SAT>3/10</SAT>
+				<SDF>3/10</SDF>	
+		</stats>
+		<evolutions>
+			<evolution id='1'>
+				<nameevo>Squirtle</nameevo>
+			</evolution>
+			<evolution id='2'>
+				<nameevo>Wartortle</nameevo>
+			</evolution>
+			<evolution id='3'>
+				<nameevo>Blastoise</nameevo>
+			</evolution>
+		</evolutions>
+		<description>Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.</description>
+	</pokemon>
+	<pokemon id='9'>
+		<name>BLASTOISE</name>
+		<img url="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png"></img>
+		<category>Shellfish</category>
+		<type>Water</type>
+		<type></type>
+		<ability>Torrent</ability>
+		<stats>
+				<HP>3/10</HP>
+				<ATK>4/10</ATK>
+				<DEF>4/10</DEF>
+				<SPD>4/10</SPD>
+				<SAT>4/10</SAT>
+				<SDF>4/10</SDF>			
+		</stats>
+		<evolutions>
+			<evolution id='1'>
+				<nameevo>Squirtle</nameevo>
+			</evolution>
+			<evolution id='2'>
+				<nameevo>Wartortle</nameevo>
+			</evolution>
+			<evolution id='3'>
+				<nameevo>Blastoise</nameevo>
+			</evolution>
+		</evolutions>
+		<description>Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.</description>
+	</pokemon>
+	<pokemon id='10'>
+		<name>CATERPIE</name>
+		<img url="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png"></img>
+		<category>Worm</category>
+		<type>Bug</type>
+		<type></type>
+		<ability>Shield Dust</ability>
+		<stats>
+				<HP>2/10</HP>
+				<ATK>2/10</ATK>
+				<DEF>2/10</DEF>
+				<SPD>3/10</SPD>
+				<SAT>1/10</SAT>
+				<SDF>1/10</SDF>			
+		</stats>
+		<evolutions>
+			<evolution id='1'>
+				<nameevo>Caterpie</nameevo>
+			</evolution>
+			<evolution id='2'>
+				<nameevo>Metapod</nameevo>
+			</evolution>
+			<evolution id='3'>
+				<nameevo>Butterfree</nameevo>
+			</evolution>
+		</evolutions>
+		<description>Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.</description>
+	</pokemon>
+	<pokemon id='11'>
+		<name>METAPOD</name>
+		<img url="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/011.png"></img>
+		<category>Cocoon</category>
+		<type>Bug</type>
+		<type></type>
+		<ability>Shed Skin</ability>
+		<stats>
+				<HP>2/10</HP>
+				<ATK>1/10</ATK>
+				<DEF>3/10</DEF>
+				<SPD>2/10</SPD>
+				<SAT>1/10</SAT>
+				<SDF>1/10</SDF>		
+		</stats>
+		<evolutions>
+			<evolution id='1'>
+				<nameevo>Caterpie</nameevo>
+			</evolution>
+			<evolution id='2'>
+				<nameevo>Metapod</nameevo>
+			</evolution>
+			<evolution id='3'>
+				<nameevo>Butterfree</nameevo>
+			</evolution>
+		</evolutions>
+		<description>The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.</description>
+	</pokemon>
+	<pokemon id='12'>
+		<name>BUTTERFREE</name>
+		<img url="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png"></img>
+		<category>Butterfly</category>
+		<type>Bug</type>
+		<type>Flying</type>
+		<ability>Compund Eyes</ability>
+		<stats>
+				<HP>3/10</HP>
+				<ATK>2/10</ATK>
+				<DEF>2/10</DEF>
+				<SPD>4/10</SPD>
+				<SAT>4/10</SAT>
+				<SDF>3/10</SDF>		
+		</stats>
+		<evolutions>
+			<evolution id='1'>
+				<nameevo>Caterpie</nameevo>
+			</evolution>
+			<evolution id='2'>
+				<nameevo>Metapod</nameevo>
+			</evolution>
+			<evolution id='3'>
+				<nameevo>Butterfree</nameevo>
+			</evolution>
+		</evolutions>
+		<description>Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.</description>
+	</pokemon>
+</pokedex>
